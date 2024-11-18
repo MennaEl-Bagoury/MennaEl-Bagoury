@@ -1,4 +1,4 @@
-ter<h1 align="center">Hi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Menna EL-Bagoury</h1>
+<h1 align="center">Hi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Menna EL-Bagoury</h1>
 <h3 align="center">Dynamic Data Scientist, specializing in data analysis, data cleaning, and machine learning. Proven ability to leverage data-driven insights to enhance decision-making and user experience, solution-focused, and experienced in delivering effective technical projects.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mennael-bagoury&label=Profile%20views&color=0e75b6&style=flat" alt="mennael-bagoury" /> </p>
